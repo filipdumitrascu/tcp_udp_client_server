@@ -3,7 +3,8 @@ The project aims to implement an application that respects the client-server
 model for message management. Thus, it is realized multiplexing TCP and UDP
 connections using sockets and using a data type for a predefined protocol
 over UDP.
-##### Contributor: Dumitrascu Filip-Teodor (323CA)
+
+##### Contributor: Dumitrascu Filip-Teodor
 
 ## Content
 1. [TCP client](#tcp-client)
